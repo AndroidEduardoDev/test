@@ -30,5 +30,5 @@ implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1'
 implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2'
 ```
 ![Logo](https://github.com/AndroidEduardoDev/test/blob/main/ezgif.com-video-to-gif.gif)
-![Logo](https://github.com/AndroidEduardoDev/test/blob/main/ezgif.com-video-to-gif%20(1).gif)
+![Logo](https://github.com/AndroidEduardoDev/test/blob/main/video2.gif)
 
