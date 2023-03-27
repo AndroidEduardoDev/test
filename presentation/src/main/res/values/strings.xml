@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Yape</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="steps">Pasos para preparar receta</string>
+    <string name="go_origin">Ir Al Origen</string>
+    <string name="apply_filters">Aplicar Filtros</string>
+    <string name="all">Todos</string>
+</resources>

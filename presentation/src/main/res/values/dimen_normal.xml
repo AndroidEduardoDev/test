@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_space">15dp</dimen>
+    <dimen name="normal_padding">15dp</dimen>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="icon">30dp</dimen>
+    <dimen name="title">25sp</dimen>
+    <dimen name="text">15sp</dimen>
+    <dimen name="subtitle">20sp</dimen>
+</resources>
