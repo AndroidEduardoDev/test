@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\fragment_recipe_list.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\fragment_recipe_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\fragment_recipe_map.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\fragment_recipe_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\ui_transparent_loading.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\ui_transparent_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\fragment_recipe_detail.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\fragment_recipe_detail.xml"
+    },
+    {
+        "merged": "com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:/layout/fragment_recipe_filter.xml",
+        "source": "com.eduardo.fonseca.testyape.presentation-main-68:/layout/fragment_recipe_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\fragment_recipe_filter.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\fragment_recipe_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-mergeDebugResources-65:\\layout\\item_recipe.xml",
+        "source": "C:\\Users\\EDUARDO\\.gradle\\daemon\\7.4\\com.eduardo.fonseca.testyape.presentation-main-68:\\layout\\item_recipe.xml"
+    }
+]
