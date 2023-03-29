@@ -15,7 +15,7 @@ import com.eduardo.fonseca.testyape.R
 import com.eduardo.fonseca.testyape.base.BaseFragment
 import com.eduardo.fonseca.testyape.ui.adapter.RecipeAdapter
 import com.eduardo.fonseca.testyape.viewmodel.RecipeViewModel
-import com.eduardo.fonseca.testyape.utils.TransparentLoadScreenDialog
+import com.eduardo.fonseca.testyape.ui.utils.TransparentLoadScreenDialog
 import com.eduardo.fonseca.testyape.databinding.FragmentRecipeListBinding
 import com.eduardo.fonseca.testyape.viewmodel.RecipeViewModel.Companion.FILTERS
 import com.eduardo.fonseca.testyape.viewmodel.RecipeViewModel.Companion.INGREDIENTS

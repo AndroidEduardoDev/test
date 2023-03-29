@@ -1,4 +1,4 @@
-package com.eduardo.fonseca.infrestructure.service
+package com.eduardo.fonseca.infrestructure.model
 
 import com.eduardo.fonseca.infrestructure.BuildConfig
 import com.eduardo.fonseca.infrestructure.api.RecipeApi

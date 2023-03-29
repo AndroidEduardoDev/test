@@ -8,7 +8,7 @@ import androidx.core.view.isVisible
 import androidx.fragment.app.viewModels
 import androidx.appcompat.widget.SearchView
 import dagger.hilt.android.AndroidEntryPoint
-import com.eduardo.fonseca.testyape.utils.show
+import com.eduardo.fonseca.testyape.ui.utils.show
 import android.widget.SearchView.OnQueryTextListener
 import com.eduardo.fonseca.testyape.base.BaseFragment
 import com.eduardo.fonseca.testyape.viewmodel.RecipeViewModel

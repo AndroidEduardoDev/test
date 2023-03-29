@@ -7,8 +7,6 @@ import androidx.lifecycle.MutableLiveData
 import com.eduardo.fonseca.model.entity.Response
 import com.eduardo.fonseca.model.usecase.GetRecipesUseCase
 import com.eduardo.fonseca.testyape.viewmodel.state.RecipeState
-import com.eduardo.fonseca.infrestructure.service.RecipeRepositoryImplementation
-import com.eduardo.fonseca.model.entity.Recipe
 import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 

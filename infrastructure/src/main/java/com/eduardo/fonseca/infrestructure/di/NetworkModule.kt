@@ -6,7 +6,7 @@ import dagger.hilt.InstallIn
 import javax.inject.Singleton
 import dagger.hilt.components.SingletonComponent
 import com.eduardo.fonseca.model.model.RecipeRepository
-import com.eduardo.fonseca.infrestructure.service.RecipeRepositoryImplementation
+import com.eduardo.fonseca.infrestructure.model.RecipeRepositoryImplementation
 
 @Module
 @InstallIn(SingletonComponent::class)

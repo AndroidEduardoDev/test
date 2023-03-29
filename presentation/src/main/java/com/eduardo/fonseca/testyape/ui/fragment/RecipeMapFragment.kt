@@ -21,9 +21,7 @@ class RecipeMapFragment : BaseFragment<FragmentRecipeMapBinding>() {
     private val callback = OnMapReadyCallback { googleMap ->
         val recipe = arguments?.getSerializable(RECIPE) as Recipe?
         val sydney = LatLng(recipe?.lat ?: 0.0, recipe?.long ?: 0.0)
-        googleMap.addMarker(
-            MarkerOptions().position(sydney).title(recipe?.name)
-        )
+        googleMap.addMarker(MarkerOptions().position(sydney).title(recipe?.name))
         googleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(sydney, 10f))
     }
 

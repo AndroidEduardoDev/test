@@ -1,4 +1,4 @@
-package com.eduardo.fonseca.testyape.utils
+package com.eduardo.fonseca.testyape.ui.utils
 
 import android.view.View
 
